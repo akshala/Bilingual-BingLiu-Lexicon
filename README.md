@@ -1,2 +1,2 @@
-# Bilingual-BingLiu-Lexicon
-English-Hindi version of the BingLiu lexicon
+### Bilingual BingLiu Lexicon
+Creating English-Hindi version of the BingLiu lexicon
